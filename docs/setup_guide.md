@@ -12,7 +12,9 @@
 
 ## Step 1: VSCode 설치 및 확장 프로그램
 
-1. [code.visualstudio.com](https://code.visualstudio.com/) 에서 **VSCode** 를 다운로드하여 설치합니다.
+> 새천년관 403호 실습실 컴퓨터에는 VSCode가 이미 설치되어 있으므로, 별도로 설치하지 않아도 됩니다.
+
+1. [code.visualstudio.com](https://code.visualstudio.com/) 에서 **VSCode** 를 다운로드하여 설치합니다. (실습실에서는 생략)
 2. VSCode를 실행한 후, 왼쪽 사이드바의 **확장(Extensions)** 아이콘(네모 4개 모양)을 클릭합니다.
 3. 다음 확장 프로그램을 검색하여 설치합니다:
    - **Python** (Microsoft) — Python 언어 지원

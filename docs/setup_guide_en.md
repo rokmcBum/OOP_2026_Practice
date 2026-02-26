@@ -12,7 +12,9 @@ The original textbook code was written for an earlier Python 3.x version, which 
 
 ## Step 1: Install VSCode and Extensions
 
-1. Download and install **VSCode** from [code.visualstudio.com](https://code.visualstudio.com/).
+> VSCode is already installed on the lab computers in **Saecheonnyeon Hall Room 403**. You can skip the installation step.
+
+1. Download and install **VSCode** from [code.visualstudio.com](https://code.visualstudio.com/). (Skip this in the lab)
 2. Launch VSCode and click the **Extensions** icon (four squares) in the left sidebar.
 3. Search for and install the following extensions:
    - **Python** (Microsoft) — Python language support
