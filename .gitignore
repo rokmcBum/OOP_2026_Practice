@@ -10,3 +10,5 @@ build/
 .vscode/
 .idea/
 .env
+CLAUDE.md
+**/python_basics_lecture_script.md
