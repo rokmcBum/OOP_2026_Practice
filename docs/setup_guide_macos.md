@@ -47,6 +47,12 @@
    ```bash
    conda init bash
    ```
+   > `conda: command not found`가 뜨는 경우 아직 PATH가 등록되지 않은 것입니다. 아래처럼 전체 경로로 실행하세요:
+   > ```bash
+   > ~/miniconda3/bin/conda init zsh
+   > # Anaconda의 경우:
+   > ~/anaconda3/bin/conda init zsh
+   > ```
 
 2. 쉘 설정 파일을 다시 불러옵니다:
    ```bash
@@ -140,6 +146,7 @@ VSCode 터미널에서 실습 저장소를 clone합니다:
 
 ```bash
 git clone https://github.com/ElionLAB/OOP_2026_Practice.git
+cd OOP_2026_Practice
 ```
 
 환경 검증 테스트를 실행합니다:

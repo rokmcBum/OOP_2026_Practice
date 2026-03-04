@@ -133,6 +133,7 @@ VSCode 터미널에서 실습 저장소를 clone합니다:
 
 ```bash
 git clone https://github.com/ElionLAB/OOP_2026_Practice.git
+cd OOP_2026_Practice
 ```
 
 환경 검증 테스트를 실행합니다:

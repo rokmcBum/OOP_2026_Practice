@@ -133,6 +133,7 @@ Clone the lab repository in the VSCode terminal:
 
 ```bash
 git clone https://github.com/ElionLAB/OOP_2026_Practice.git
+cd OOP_2026_Practice
 ```
 
 Run the environment verification test:

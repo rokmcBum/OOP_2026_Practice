@@ -47,6 +47,12 @@ The installer automatically runs `conda init`, which adds conda to your shell pr
    ```bash
    conda init bash
    ```
+   > If you see `conda: command not found`, conda is not in PATH yet. Use the full path instead:
+   > ```bash
+   > ~/miniconda3/bin/conda init zsh
+   > # For Anaconda:
+   > ~/anaconda3/bin/conda init zsh
+   > ```
 
 2. Reload the shell configuration:
    ```bash
@@ -139,6 +145,7 @@ Clone the lab repository in the VSCode terminal:
 
 ```bash
 git clone https://github.com/ElionLAB/OOP_2026_Practice.git
+cd OOP_2026_Practice
 ```
 
 Run the environment verification test:
